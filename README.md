@@ -10,6 +10,8 @@ You can only replace the light component by your component.
 
 Note that there is a change in the bootstrap class you click on each button which give the different color.
 
+If you clone the project use the command   "npm install" to install the dependencies, or you can start the project from scrtch by using the command "create-react-app"
+
 let me know if you need some help happy hacking.
 
 @MariusMonkam
