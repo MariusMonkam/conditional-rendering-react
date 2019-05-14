@@ -16,6 +16,8 @@ let me know if you need some help happy hacking.
 
 @MariusMonkam
 
+##demo 
+<img src="public/conditional-rendering.PNG" alt="conditional-rendering"/>
 
 
 
